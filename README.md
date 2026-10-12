@@ -27,11 +27,11 @@ Xây dựng ứng dụng Windows Forms sử dụng mô hình MDI, cho phép qu�
 
 ### Ảnh 4: Form quản lý sản phẩm
 
-![Form quản lý sản phẩm](Images/Anh4.png)
+![Form quản lý sản phẩm](Images/anh4.png)
 
 ### Ảnh 5: Sắp xếp nhiều cửa sổ
 
-![Sắp xếp cửa sổ MDI](Images/Anh5.png)
+![Sắp xếp cửa sổ MDI](Images/anh5.png)
 
 
 ## 4. Kết luận
