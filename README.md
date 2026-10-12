@@ -26,23 +26,23 @@ Xây dựng ứng dụng Windows Forms bằng C# nhằm thực hành liên kết
 
 #### Ảnh 1: Giao diện quản lý sinh viên
 
-![Giao diện quản lý sinh viên](Images/anh1.png)
+![Giao diện quản lý sinh viên](./anh1.png)
 
 #### Ảnh 2: Thêm sinh viên
 
-![Thêm sinh viên](Images/anh2.png)
+![Thêm sinh viên](./anh2.png)
 
 #### Ảnh 3: chọn ảnh đại diện
 
-![chọn ảnh đại diện](Images/anh3.png)
+![chọn ảnh đại diện](./anh3.png)
 
 #### Ảnh 4: Xóa sinh viên
 
-![Xóa sinh viên](Images/anh4.png)
+![Xóa sinh viên](./anh4.png)
 
 #### Ảnh 4: xuất dữ liệu CSV
 
-![xuất dữ liệu CSV](Images/anh5.png)
+![xuất dữ liệu CSV](./anh5.png)
 
 
 
@@ -61,15 +61,15 @@ Xây dựng ứng dụng Windows Forms bằng C# nhằm thực hành liên kết
 
 #### Ảnh 4: Giao diện chính MDI
 
-![Giao diện chính MDI](Images/anh6.png)
+![Giao diện chính MDI](./anh6.png)
 
 #### Ảnh 5: Menu danh mục và cửa sổ
 
-![Menu danh mục và cửa sổ](Images/anh7.png)
+![Menu danh mục và cửa sổ](./anh7.png)
 
 #### Ảnh 6: Quản lý nhiều cửa sổ con
 
-![Quản lý nhiều cửa sổ con](Images/anh8.png)
+![Quản lý nhiều cửa sổ con](./anh8.png)
 
 ### 3.3. Bài 4.8: Lập trình bất đồng bộ và ProgressBar
 
@@ -85,15 +85,15 @@ Xây dựng ứng dụng Windows Forms bằng C# nhằm thực hành liên kết
 
 #### Ảnh 7: Giao diện nạp dữ liệu bất đồng bộ
 
-![Giao diện nạp dữ liệu bất đồng bộ](Images/anh9.png)
+![Giao diện nạp dữ liệu bất đồng bộ](./anh9.png)
 
 #### Ảnh 8: Hiển thị tiến trình nạp dữ liệu
 
-![Hiển thị tiến trình nạp dữ liệu](Images/anh10.png)
+![Hiển thị tiến trình nạp dữ liệu](./anh10.png)
 
 #### Ảnh 9: Thông báo hoàn tất
 
-![Thông báo hoàn tất](Images/anh11.png)
+![Thông báo hoàn tất](./anh11.png)
 
 ## 4. Kết luận
 
